@@ -40,9 +40,9 @@ if __name__ == "__main__":
         generate_proceedings(args.path, args.overwrite, args.outdir)
     if args.handbook == True:
         generate_handbook(args.path, args.overwrite)
-    if args.handbook_small == True:
-        generate_handbook_small(args.path, args.overwrite)
-    if args.posters_guide == True:
-        generate_posters_guide(args.path, args.overwrite)    
+    # if args.handbook_small == True:
+    #     generate_handbook_small(args.path, args.overwrite)
+    # if args.posters_guide == True:
+    #     generate_posters_guide(args.path, args.overwrite)    
 
 #generate_posters_guide('../examples/handbook_acl2022',True)

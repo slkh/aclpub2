@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: openreview-py
+Version: 1.45.0
+Summary: OpenReview API Python client library
+Home-page: https://github.com/openreview/openreview-py
+Author: OpenReview Team
+Author-email: info@openreview.net
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Requires-Python: <3.12
+License-File: LICENSE
+Requires-Dist: pycryptodome
+Requires-Dist: requests (>=2.18.4)
+Requires-Dist: future
+Requires-Dist: tqdm
+Requires-Dist: Deprecated
+Requires-Dist: pylatexenc
+Requires-Dist: tld (>=0.12)
+Requires-Dist: setuptools (==65.5.1)
+Requires-Dist: pyjwt
+Provides-Extra: docs
+Requires-Dist: nbsphinx ; extra == 'docs'
+Requires-Dist: sphinx ; extra == 'docs'
+Requires-Dist: sphinx-rtd-theme ; extra == 'docs'
+Requires-Dist: nbformat ; extra == 'docs'
+
