@@ -1,0 +1,230 @@
+- members:
+  - first_name: Abdellah
+    institution: Aix-Marseille Université
+    last_name: Fourtassi
+  - first_name: Jordan
+    institution: Stony Brook University
+    last_name: Kodner
+  - first_name: David
+    institution: Carnegie Mellon University (CMU)
+    last_name: Mortensen
+  role: Linguistic Theories, Cognitive Modeling and Psycholinguistics
+- members:
+  - first_name: Chloé
+    institution: INRIA
+    last_name: Clavel
+  - first_name: Wenjie
+    institution: The Hong Kong Polytechnic University
+    last_name: Li
+  - first_name: Kallirroi
+    institution: University of Southern California
+    last_name: Georgila
+  role: Dialogue and Conversational Interaction
+- members:
+  - first_name: Sharid
+    institution: University of Gothenburg
+    last_name: Loáiciga
+  - first_name: Philippe
+    institution: University of Toulouse
+    last_name: Muller
+  - first_name: Sebastian
+    institution: University College London
+    last_name: Schuster
+  role: Discourse and Pragmatics
+- members:
+  - first_name: Goran
+    institution: University of Würzburg
+    last_name: Glavaš
+  - first_name: Wai
+    institution: Chinese University of Hong Kong
+    last_name: Lam
+  - first_name: Pierre
+    institution: University Paris-Saclay, LISN, CNRS
+    last_name: Zweigenbaum
+  role: Information Retrieval and Text Mining
+- memebers:
+    - first_name: Maria
+      institution: Allen Institute for AI
+      last_name: Antoniak
+    - first_name: Danushka
+      institution: University of Liverpool
+      last_name: Bollegalla
+  role: Ethics, Bias, and Fairness
+- members:
+  - first_name: Marie-Catherine
+    institution: Université Catholique de Louvain
+    last_name: de Marneffe
+  - first_name: Sanda
+    institution: University of Texas at Dallas
+    last_name: Harabagiu
+  - first_name: Niranjan
+    institution: Stony Brook University
+    last_name: Balasubramanian
+  role: Reasoning, Question Answering, and Sentence-level Semantics
+- members:
+  - first_name: Naoaki
+    institution: Tokyo Institute of Technology
+    last_name: Okazaki
+  - first_name: Qifan
+    institution: META AI
+    last_name: Wang
+  role: Information Extraction
+- members:
+  - first_name: Xiaodong
+    institution: Microsoft Research
+    last_name: Liu
+  - first_name: Lun-Wei
+    institution: Academia Sinica
+    last_name: Ku
+  - first_name: Soujanya
+    institution: University of Singapore
+    last_name: Poria
+  role: Language Modeling
+- members:
+  - first_name: Serge
+    institution: University of Leeds
+    last_name: Sharoff
+  - first_name: Valerio 
+    institution: University of Turin
+    last_name: Basile
+  - first_name: Nafise Sadat
+    institution: University of Sheffield
+    last_name: Moosavi
+  role: Language Resources and Evaluation
+- members:
+  - first_name: Aina
+    institution: Télécom Paris
+    last_name: Garí Soler   
+  - first_name: Andrey
+    institution: University of Oslo
+    last_name: Kutuzov
+  - first_name: Sebastian
+    institution: University of Stuttgart
+    last_name: Padó
+  role: Lexical Semantics
+- members:
+  - first_name: Cristina
+    institution: Universitat Politècnica de Catalunya (UPC)
+    last_name: España i Bonet
+  - first_name: Yves
+    institution: University of Oslo
+    last_name: Scherrer
+  - first_name: Zoey
+    institution: University of Florida
+    last_name: Liu
+  role: Low-resourced and Less Studied Languages
+- members:
+  - first_name: João
+    institution: New York University (NYU)
+    last_name: Sedoc
+  - first_name: Bing
+    institution: University of Illinois at Chicago (UIC)
+    last_name: Liu
+  - first_name: Christos
+    institution: Amazon
+    last_name: Christodoulopoulos
+  role: Machine Learning for CL/NLP
+- members:
+  - first_name: Benjamin
+    institution: The Kaitchup
+    last_name: Marie
+  - first_name: Maja
+    institution: ADAPT Centre, Dublin City University
+    last_name: Popović
+  role: Multilinguality and Machine Translation
+- members:
+  - first_name: Kemal
+    institution: Carnegie Mellon University
+    last_name: Oflazer
+  - first_name: Eleanor
+    institution: University of Zurich
+    last_name: Chodroff
+  - first_name: Ryan
+    institution: ETH Zürich
+    last_name: Cotterell
+  role: Phonology, Morphology, and Word Segmentation
+- members:
+  - first_name: Yue
+    institution: Westlake University
+    last_name: Zhang
+  - first_name: Miryam
+    institution: KU Leuven
+    last_name: de Lhoneux
+  - first_name: Natalie
+    institution: Apple and Technical University of Denmark
+    last_name: Schluter
+  role: Syntax, Tagging, Chunking and Parsing
+- members:
+  - first_name: Casey
+    institution: Boise State University
+    last_name: Kennington
+  - first_name: Malihe
+    institution: Northeastern University
+    last_name: Alikhani
+  role: Multimodal and Grounded Language Acquisition, HRI
+- members:
+  - first_name: Kathy
+    institution: Columbia University
+    last_name: McKeown
+  - first_name: Xiaojun
+    institution: Peking University
+    last_name: Wan
+  - first_name: Fei
+    institution: Emory University
+    last_name: Liu
+  role: Natural Language Generation, Summarization and Simplification
+- members:
+  - first_name: Sara
+    institution: Fondazione Bruno Kessler
+    last_name: Tonelli
+  - first_name: Eduardo
+    institution: University of Arizona
+    last_name: Blanco
+  role: Offensive and Non-Inclusive Language Detection and Analysis
+- members:
+  - first_name: Elena
+    institution: Université Côte d’Azur
+    last_name: Cabrio
+  - first_name: Manfred
+    institution: Potsdam University
+    last_name: Stede
+  - first_name: Simone Paolo
+    institution: Universität Mannheim
+    last_name: Ponzetto
+  role: Sentiment Analysis, Opinion and Argument Mining
+- members:
+  - first_name: Rita
+    institution: Carnegie Mellon University (CMU)
+    last_name: Singh
+  - first_name: Frédéric
+    institution: Aix-Marseille Université
+    last_name: Bechet
+  - first_name: Sakriani
+    institution: Nara Institute of Science and Technology
+    last_name: Sakti
+  role: Speech Recognition and Synthesis and Spoken Language Understanding
+- members:
+  - first_name: Nadir
+    institution: Qatar Computing Research Institute
+    last_name: Durrani
+  - first_name: Carolin
+    institution: NEC Laboratories Europe
+    last_name: Lawrence
+  role: Interpretability and Explainability
+- members:
+  - first_name: Dina
+    institution: National Library of Medicine
+    last_name: Demner Fushman
+  - first_name: Vincent
+    institution: University of Texas at Dallas
+    last_name: Ng
+  - first_name: Joel
+    institution: Dataminr
+    last_name: Tetrault
+  - first_name: Sophia
+    institution: University of Manchester
+    last_name: Ananiadou
+  - first_name: Hai
+    institution: Shanghai Jiao Tong University
+    last_name: Zhao
+  role: NLP and LLM Applications

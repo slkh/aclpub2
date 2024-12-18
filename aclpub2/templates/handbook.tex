@@ -157,6 +157,23 @@
 \newpage
 \BLOCK{endif}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Senior Program Committee %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\BLOCK{if senior_program_committee}
+
+{\section{Senior Program Committee}}
+\begin{description}
+\BLOCK{for role in senior_program_committee}
+  \item{\bf \VAR{role.role}}\vspace{1mm}\\
+  \BLOCK{for member in role.members}
+    \VAR{committee_member(member)}\\
+  \BLOCK{endfor}
+\BLOCK{endfor}
+\end{description}
+\newpage
+\BLOCK{endif}
+
 %%%%%%%%%%%%%%%%%%%%%
 % Program Committee %
 %%%%%%%%%%%%%%%%%%%%%

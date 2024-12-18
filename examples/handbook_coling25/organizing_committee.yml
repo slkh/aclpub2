@@ -1,24 +1,162 @@
 - members:
-  - first_name: AAA
-    institution: BBB
-    last_name: CCC
+  - first_name: Owen
+    institution: Stony Brook University, USA
+    last_name: Rambow
+  - first_name: Leo
+    institution: ICREA and Universitat Pompeu Fabra, Spain
+    last_name: Wanner
   role: General Chair
 - members:
-  - first_name: AAA
-    institution: BBB
-    last_name: CCC
-  - first_name: DDD
-    institution: EEE
-    last_name: FFF
-  - first_name: GGG
-    institution: HHH
-    last_name: III
+  - first_name: Marianna
+    institution: University of Pennsylvania, USA
+    last_name: Apidianaki
+  - first_name: Hend
+    institution: King Saud University, Saudi Arabia
+    last_name: Al-Khalifa
+  - first_name: Barbara
+    institution: University of Illinois at Chicago, USA
+    last_name: Di Eugenio
+  - first_name: Steven
+    institution: Cardiff University, UK
+    last_name: Schockaert
   role: Program Chairs
 - members:
-  - first_name: AAA
-    institution: BBB
-    last_name: CCC
-  - first_name: DDD
-    institution: EEE
-    last_name: FFF
+  - first_name: Preslav
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Nakov
+  - first_name: Alham Fikri
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Aji
+  - first_name: Yova
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Kementchedjhieva
+  - first_name: Ekaterina
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Kochmar
+  - first_name: Teresa
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Lynn
+  - first_name: Monojit
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Choudhury
+  - first_name: Nizar
+    institution: New York University Abu Dhabi, UAE, and Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Habash
+  - first_name: Ahmed
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Dabbagh
   role: Local Organization Chairs
+- members:
+  - first_name: Kareem
+    institution: aiXplain, USA
+    last_name: Darwish
+  - first_name: Apoorv
+    institution: Columbia University, USA
+    last_name: Agarwal
+  role: Industrial Track Chairs
+- members:
+  - first_name: Katsuhito
+    institution: Nara Institute of Science and Technology, Japan
+    last_name: Sudoh
+  - first_name: Mo
+    institution: Lancaster University, UK
+    last_name: El-Haj
+  role: Workshops Chairs
+- members:
+  - first_name: Djamé
+    institution: Insitut National de Recherche en Informatique et en Automatique, France
+    last_name: Seddah
+  - first_name: Shaonan
+    institution: Institute of Automation, Chinese Academy of Sciences, China
+    last_name: Wang
+  role: Tutorial Chairs
+- members:
+  - first_name: Brodie
+    institution: The Institute of Human \& Machine Cognition, USA
+    last_name: Mather
+  - first_name: Tilman
+    institution: German Research Center for Artificial Intelligence, Germany
+    last_name: Becker
+  - first_name: Mark
+    institution: Macquarie University, Australia
+    last_name: Dras
+  role: Demonstrations Chairs
+- members:
+  - first_name: Monojit
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Choudhury
+  - first_name: Ahmed
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Dabbagh
+  role: Sponsorship Chairs
+- members:
+  - first_name: Zeerak
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Talat
+  - first_name: Su Lin
+    institution: Microsoft Research
+    last_name: Blodgett
+  role: Ethics Chairs
+- members:
+  - first_name: Sakhar
+    institution: King Abulaziz City for Science and Technology, Saudi Arabia
+    last_name: AlKhereyf
+  - first_name: Baotian
+    institution: Harbin Institute of Technology, China
+    last_name: Hu
+  role: Publicity Chairs
+- members:
+  - first_name: Hasan
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Iqbal
+  - first_name: Zain Muhammad
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Mujahid
+  role: Website Chairs
+- members:
+  - first_name: Preslav
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Nakov
+  role: Visa Chairs
+- members:
+  - first_name: Emily
+    institution: University of Edinburgh, UK
+    last_name: Allaway
+  - first_name: Guillermo
+    institution: Amazon
+    last_name: Cámbara
+  role: Publications Chairs
+- members:
+  - first_name: Salam
+    institution: Stony Brook University, USA
+    last_name: Khalifa
+  role: Handbook Chair
+- members:
+  - first_name: Artem
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Shelmanov
+  role: Volunteer Chairs
+- members:
+  - first_name: Alexander
+    institution: Barcelona Supercomputing Center, Spain
+    last_name: Shvets
+  role: Virtual Infrastructure Chairs
+- members:
+  - first_name: Kevin
+    institution: Johns Hopkins University, USA
+    last_name: Duh
+  - first_name: Aline
+    institution: University of Sheffield, UK
+    last_name: Villavicencio
+  role: Best Paper Committee Chairs
+- members:
+  - first_name: Hawau Olamide
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Toyin
+  - first_name: Mukund
+    institution: Mohamed bin Zayed University of Artificial Intelligence, UAE
+    last_name: Choudhary
+  role: Birds-of-a-Feather (BoF) Chairs
+
+
+

@@ -10,6 +10,7 @@
 .idea/inspectionProfiles/Project_Default.xml
 .idea/modules.xml
 .vscode
+*/.env/
 examples/handbook_acl2022/papers/102.pdf
 examples/handbook_acl2022/papers/103.pdf
 examples/handbook_acl2022/papers/11.pdf
