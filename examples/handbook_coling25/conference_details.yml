@@ -1,11 +1,11 @@
-book_title: "Title"
-event_name: "Name"
+book_title: "The 31st International Conference on Computational Linguistics"
+event_name: "COLING 2025"
 cover_subtitle: "Subtitle"
 anthology_venue_id: COLING
-start_date: 2022-05-22
-end_date: 2022-05-27
-isbn: xxx-x-xxxxxxx-xx-x
-location: Online
+start_date: 2025-01-19
+end_date: 2025-01-24
+isbn: 979-8-89176-196-4
+location: Abu Dhabi, UAE
 editors:
   - first_name: Jhon
     last_name: Doe
@@ -13,6 +13,6 @@ editors:
     last_name: Doe
   - first_name: Jhason
     last_name: Doe
-publisher: Association for Computational Linguistics
-watermark_book_title: "ACL meeting"
+publisher: International Committee on Computational Linguistics
+watermark_book_title: "COLING"
 volume_name: handbook

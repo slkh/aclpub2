@@ -181,6 +181,7 @@ def generate_handbook(path: str, overwrite: bool):
         organizing_committee,
         program_committee,
         senior_program_committee,
+        conference_organizers,
         tutorial_program,
         tutorials,
         invited_talks,
@@ -207,6 +208,7 @@ def generate_handbook(path: str, overwrite: bool):
         organizing_committee=organizing_committee,
         program_committee=program_committee,
         senior_program_committee=senior_program_committee,
+        conference_organizers=conference_organizers,
         tutorial_program=tutorial_program,
         tutorials=tutorials,
         invited_talks=invited_talks,
@@ -781,6 +783,7 @@ def load_configs_handbook(root: Path):
                 print(k, v)
                 entry[k] = normalize_latex_string(v)
     senior_program_committee = load_config("senior_program_committee", root)
+    conference_organizers = load_config("conference_organizers", root)
     tutorial_program = load_config("tutorial_program", root)
     tutorials = load_config("tutorials", root)
     invited_talks = load_config("invited_talks", root, required=False)
@@ -825,6 +828,7 @@ def load_configs_handbook(root: Path):
         organizing_committee,
         program_committee,
         senior_program_committee,
+        conference_organizers,
         tutorial_program,
         tutorials,
         invited_talks,

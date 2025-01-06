@@ -1,0 +1,268 @@
+- title: Registration and Winter School
+  start_time: 2025-01-18 14:00:00
+  end_time: 2025-01-18 18:30:00
+  subsessions:
+    - title: Arabic NLP Winter School Registration
+      location: MBZUAI (External location)
+      start_time: 2025-01-18 08:00:00
+      end_time: 2025-01-18 09:00:00
+      papers: []
+    - title: Arabic NLP Winter School - Day 1
+      location: MBZUAI (External location)
+      start_time: 2025-01-18 08:50:00
+      end_time: 2025-01-18 21:00:00
+      papers: []
+    - title: Registration (COLING)
+      location: ADNEC
+      start_time: 2025-01-18 14:00:00
+      end_time: 2025-01-18 18:30:00
+      papers: []
+- title: Workshops, Tutorials and Winter School
+  start_time: 2025-01-19 08:00:00
+  end_time: 2025-01-19 18:30:00
+  subsessions:
+    - title: Registration
+      location: ADNEC
+      start_time: 2025-01-19 08:00:00
+      end_time: 2025-01-19 16:30:00
+      papers: []
+    - title: Workshops, Tutorials, and Winter School
+      location: ADNEC
+      start_time: 2025-01-19 09:00:00
+      end_time: 2025-01-19 18:30:00
+      papers: []
+    - title: Break (Coffee, Tea \& light bites)
+      location: ADNEC
+      start_time: 2025-01-19 10:30:00
+      end_time: 2025-01-19 11:00:00
+      papers: []
+    - title: Break (Coffee, Tea \& light bites)
+      location: ADNEC
+      start_time: 2025-01-19 15:30:00
+      end_time: 2025-01-19 16:00:00
+      papers: []
+
+- title: Workshops and Welcome Reception
+  start_time: 2025-01-20 08:00:00
+  end_time: 2025-01-20 18:30:00
+  subsessions:
+    - title: Registration
+      location: ADNEC
+      start_time: 2025-01-20 08:00:00
+      end_time: 2025-01-20 16:30:00
+      papers: []
+    - title: Workshops 
+      location: ADNEC
+      start_time: 2025-01-20 09:00:00
+      end_time: 2025-01-20 17:30:00
+      papers: []
+    - title: Break (Coffee, Tea \& light bites)
+      location: ADNEC
+      start_time: 2025-01-19 10:30:00
+      end_time: 2025-01-19 11:00:00
+      papers: []
+    - title: Break (Coffee, Tea \& light bites)
+      location: ADNEC
+      start_time: 2025-01-19 15:30:00
+      end_time: 2025-01-19 16:00:00
+      papers: []
+    - title: Welcome Reception Registration
+      location: Aloft Splash Garden. For all Registered Full, Main, or Welcome Reception addon’s 
+      start_time: 2025-01-20 18:00:00
+      end_time: 2025-01-20 20:30:00
+      papers: []
+    - title: Welcome Reception
+      location: Aloft Splash Garden. Registered attendees only Welcome drink ticket, light bites 
+      start_time: 2025-01-20 19:00:00
+      end_time: 2025-01-20 21:00:00
+      papers: []
+- title: Main Conference, Day 1
+  start_time: 2025-01-21 07:30:00
+  end_time: 2025-01-21 17:30:00
+  subsessions:
+    - title: Registration
+      # location: null
+      start_time: 2025-01-21 07:30:00
+      end_time: 2025-01-21 16:30:00
+      papers: []
+    - title: Plenary – Opening Session
+      # location: null
+      start_time: 2025-01-21 09:00:00
+      end_time: 2025-01-21 09:30:00
+      papers: []
+    - title: Keynote Speaker - Emmanuel Dupoux
+      location: "Learning a language like infants do: results and challenges for developmentally inspired NLP"
+      start_time: 2025-01-21 09:30:00
+      end_time: 2025-01-21 10:30:00
+      papers: []
+    - title: Break (Coffee, Tea \& light bites)
+      location: null
+      start_time: 2025-01-21 10:30:00
+      end_time: 2025-01-21 11:00:00
+      papers: []
+    - title: Group Discussions (Orals/Posters/BoF)
+      location: null
+      start_time: 2025-01-21 11:00:00
+      end_time: 2025-01-21 12:30:00
+      subsessions:
+        - title: Orals
+          location: null
+          start_time: 2025-01-21 11:00:00
+          end_time: 2025-01-21 12:30:00
+          papers: []
+    - title: Lunch Break
+      location: on own
+      start_time: 2025-01-21 12:30:00
+      end_time: 2025-01-21 14:00:00
+      papers: []
+    - title: Oral \& Poster Sessions
+      location: null
+      start_time: 2025-01-21 14:00:00
+      end_time: 2025-01-21 15:30:00
+      papers: []
+    - title: Break
+      location: null
+      start_time: 2025-01-21 15:30:00
+      end_time: 2025-01-21 16:00:00
+      papers: []
+    - title: Oral \& Poster Sessions
+      location: null
+      start_time: 2025-01-21 16:00:00
+      end_time: 2025-01-21 17:30:00
+      papers: []
+- title: Main Conference, Day 2
+  start_time: 2025-01-22 08:30:00
+  end_time: 2025-01-22 17:00:00
+  subsessions:
+    - title: Registration
+      location: null
+      start_time: 2025-01-22 08:30:00
+      end_time: 2025-01-22 16:30:00
+      papers: []
+    - title: Oral \& Poster Sessions
+      location: null
+      start_time: 2025-01-22 09:00:00
+      end_time: 2025-01-22 10:30:00
+      papers: []
+    - title: Break
+      location: null
+      start_time: 2025-01-22 10:30:00
+      end_time: 2025-01-22 11:00:00
+      papers: []
+    - title: Oral \& Poster Sessions
+      location: null
+      start_time: 2025-01-22 11:00:00
+      end_time: 2025-01-22 12:30:00
+      papers: []
+    - title: Lunch Break
+      location: on own
+      start_time: 2025-01-22 12:30:00
+      end_time: 2025-01-22 14:00:00
+      papers: []
+    - title: Panel - TBA
+      location: null
+      start_time: 2025-01-22 14:00:00
+      end_time: 2025-01-22 15:30:00
+      papers: []
+    - title: Break
+      location: null
+      start_time: 2025-01-22 15:30:00
+      end_time: 2025-01-22 16:00:00
+      papers: []
+    - title: Keynote Speaker - Katrin Erk
+      location: null
+      start_time: 2025-01-22 16:00:00
+      end_time: 2025-01-22 17:00:00
+      papers: []
+- title: Main Conference, Day 3
+  start_time: 2025-01-23 08:30:00
+  end_time: 2025-01-23 17:30:00
+  subsessions:
+    
+    - title: Registration
+      location: null
+      start_time: 2025-01-23 08:30:00
+      end_time: 2025-01-23 16:30:00
+      papers: []
+
+    - title: Oral \& Poster Sessions
+      location: null
+      start_time: 2025-01-23 09:00:00
+      end_time: 2025-01-23 10:30:00
+      papers: []
+
+    - title: Break
+      location: null
+      start_time: 2025-01-23 10:30:00
+      end_time: 2025-01-23 11:00:00
+      papers: []
+
+    - title: Oral \& Poster Sessions
+      location: null
+      start_time: 2025-01-23 11:00:00
+      end_time: 2025-01-23 12:30:00
+      papers: []
+
+    - title: Afternoon Excursions
+      location: null
+      start_time: 2025-01-23 12:30:00
+      end_time: 2025-01-23 23:00:00
+      subsessions:
+        - title: Option 1
+          location: Grand Mosque, Qasr Al Watan \& Dinner in the Desert
+        - title: Option 2
+          location: Abrahamic House, Louvre \& Dinner in the Desert
+        - title: Option 3
+          location: Desert Safari including Sand Boarding, Camel Riding, Dune Bashing \& Dinner
+- title: Main Conference, Day 4
+  start_time: 2025-01-24 08:30:00
+  end_time: 2025-01-24 17:30:00
+  subsessions:
+    
+    - title: Registration
+      location: null
+      start_time: 2025-01-24 08:30:00
+      end_time: 2025-01-24 16:30:00
+      papers: []
+
+    - title: Invited Speaker - Partha Talukdar
+      location: null
+      start_time: 2025-01-24 09:00:00
+      end_time: 2025-01-24 10:00:00
+      papers: []
+
+    - title: Break
+      location: null
+      start_time: 2025-01-24 10:00:00
+      end_time: 2025-01-24 10:30:00
+      papers: []
+
+    - title: Oral \& Poster Sessions
+      location: null
+      start_time: 2025-01-24 10:30:00
+      end_time: 2025-01-24 12:00:00
+      papers: []
+
+    - title: Lunch Break
+      location: on own
+      start_time: 2025-01-24 12:00:00
+      end_time: 2025-01-24 13:30:00
+      papers: []
+
+    - title: Oral \& Poster Sessions
+      location: null
+      start_time: 2025-01-24 13:30:00
+      end_time: 2025-01-24 15:00:00
+      papers: []
+
+    - title: Break
+      location: null
+      start_time: 2025-01-24 15:00:00
+      end_time: 2025-01-24 16:00:00
+      papers: []
+
+    - title: Closing Session \& Best Paper Awards
+      location: null
+      start_time: 2025-01-24 16:00:00
+      end_time: 2025-01-24 17:30:00
+      papers: []
