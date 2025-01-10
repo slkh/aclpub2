@@ -24,7 +24,6 @@
 %% \setsansfont[Mapping=tex-text]{Lucida Grande}.
 %% \setmonofont{Courier New}
 
-\usepackage{pdfpages}
 
 % set paper size and margins; needs to be adapted for A5 ideally, we
 % should have a document class for conference handbooks where A5
@@ -42,7 +41,6 @@
 
 \usetikzlibrary[positioning]
 \usetikzlibrary{patterns}
-\usepackage{pdfpages}
 \newcounter{dummy} % hack, see content/maps.tex, not sure if it works though
 
 % Lots of macros
@@ -116,6 +114,8 @@
 % Front Page %
 %%%%%%%%%%%%%%%%%
 \VAR{load_file(root, "front_page_handbook", "front_page.tex")}
+\clearpage
+\leavevmode\newpage
 
 %%%%%%%
 % TOC %
@@ -329,7 +329,7 @@
 %%%%%%%%%%%%%%%%%%%%
 % Workshop Details %
 %%%%%%%%%%%%%%%%%%%%
-\setheaders{Workshops Details}{Workshops Detaials}
+\setheaders{Workshops Details}{Workshops Details}
 \VAR{load_file(root, "workshops", "workshop_details.tex")}
 \clearpage
 
